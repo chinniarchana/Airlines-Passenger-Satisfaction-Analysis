@@ -2,7 +2,7 @@ Maven Airlines Passenger Satisfaction Analysis
 
 * Maven Airlines satisfaction rate dipped under 50% for the first time ever. 
 * The task is to find the key areas to focus on for getting back on track.
-* Recommended a Data-Driven Strategy For Increasing Maven Airlines Satisfaction Rate.
+* Recommended a data-driven strategy for increasing Maven Airlines satisfaction rate.
 
 Tool Used: Power B
 
